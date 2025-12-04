@@ -1,7 +1,7 @@
 <h1 align="center"> Proyecto de Data Analytics — ETL y Análisis SQL de Datos Cinematográficos</h1>
 
 <p align="center">
-    Evaluación realizada como parte del Bootcamp de Data Analytics & IA.
+    Bootcamp de Data Analytics & IA.
 </p>
 
 ---
