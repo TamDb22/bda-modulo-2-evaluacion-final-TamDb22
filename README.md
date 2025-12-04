@@ -4,6 +4,10 @@
     Bootcamp de Data Analytics & IA.
 </p>
 
+<p align="center">
+  <img src="imageBootcamp.png" width="300">
+</p>
+
 ---
 
 ## Índice de Contenidos
